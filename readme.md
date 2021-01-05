@@ -7,7 +7,7 @@ balances.
 
 ## Instructions
 
-1. Fork and clone this repository.
+1. Clone this repository.
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
